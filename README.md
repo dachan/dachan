@@ -1,6 +1,6 @@
-Most of my code is on [GitLab](https://gitlab.com/dachan)
+Most of my code is on <a href="https://gitlab.com/dachan" target="_blank">GitLab</a>
 
 Things I've built:
-- [Questrade Tracker (WIP)](https://questrade-tracker.vercel.app)
-- [Figma Helpers](https://www.figma.com/community/plugin/1209701436097360077/figma-helpers)
-- [SC2Revealed.com](https://sc2revealed.com)
+- <a href="https://gitlab.com/dachan" target="_blank">Questrade Tracker (WIP)</a>
+- <a href="https://www.figma.com/community/plugin/1209701436097360077/figma-helpers" target="_blank">Figma Helpers</a>
+- <a href="https://sc2revealed.com" target="_blank">SC2Revealed.com</a>
