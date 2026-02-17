@@ -1,9 +1,3 @@
-### <a href="https://github.com/dachan/origin" target="_blank">Origin<a>
-A modern terminal replacement with focus on improving the command line experience.
-
-### <a href="https://github.com/dachan/Google-Maps-Translator" target="_blank">Google Maps Translator<a>
-Share extension that allows you to quickly translate Google Maps photos.
-
 ### <a href="https://questrade.davidchan.xyz" target="_blank">Questrade Tracker<a>
 A work-in-progress finance tool that helps track your transaction activity from Questrade.
 
