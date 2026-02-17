@@ -1,4 +1,4 @@
-### <a href="https://github.com/dachan/origin" target="_blank">Origin: SAM<a>
+### <a href="https://github.com/dachan/origin" target="_blank">Origin<a>
 A modern terminal replacement with focus on improving the command line experience.
 
 ### <a href="https://github.com/dachan/Google-Maps-Translator" target="_blank">Google Maps Translator<a>
