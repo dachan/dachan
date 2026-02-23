@@ -1,4 +1,4 @@
-### <a href="https://github.com/dachan/origin" target="_blank">Origin: Shell Augmentation Manager<a>
+### <a href="https://github.com/dachan/origin" target="_blank">Origin<a>
 A modern terminal replacement with focus on improving the command line experience.
 
 ### <a href="https://questrade.davidchan.xyz" target="_blank">Questrade Tracker<a>
